@@ -3,6 +3,7 @@
 
 This repository contains my Master’s Thesis in Business Analytics (University of Kent), focusing on predicting loan default risks using various machine learning algorithms. The main goal is to evaluate and compare the performance of Logistic Regression, Decision Tree, and Random Forest under different approaches to handle imbalanced data, such as cost-sensitive learning, oversampling (SMOTE), and undersampling.
 
+Data file is quire big so if you need the raw data, please contact me.
 ---
 
 ## Table of Contents
